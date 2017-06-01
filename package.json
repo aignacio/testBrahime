@@ -1,0 +1,15 @@
+{
+  "name": "test_broker_brahime",
+  "version": "1.0.0",
+  "description": "Test script to connect in a MQTT Broker of 6LoWPAN nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ânderson Ignacio da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "initial-state": "^0.2.0",
+    "mqtt": "^2.8.0"
+  }
+}
